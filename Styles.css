@@ -44,3 +44,11 @@ border: 2px solid;
 .GoLeft{
 float: left;
 }
+@media screen and (max-width: 675px) {
+.main{
+width: 625px;
+}
+img{
+max-width: 625px;
+}
+}
